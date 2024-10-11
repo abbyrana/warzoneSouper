@@ -1,5 +1,5 @@
 # Webscraping Call of Duty: Warzone weapon data
-Google Collab Notebook Link: https://colab.research.google.com/github/abbyrana/warzoneSouper/blob/main/WarzoneSoupMT.ipynb
+Google Collab Notebook Link:
 
 <br>
 <br>
